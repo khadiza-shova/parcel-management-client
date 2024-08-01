@@ -1,4 +1,10 @@
 <h3>Welcome To the Parcel Management Website </h3>
+
+
+<p>admin: </p>
+<p>Email:admin@gmail.com</p>
+<p>Pass:123456aA!</p>
+
 <h2>Project Features :</h2>
 <ol>
     <li>Initiate parcel Delivery Requests, Real-time tracking info, easily update personal info and Payment Integration</li>
